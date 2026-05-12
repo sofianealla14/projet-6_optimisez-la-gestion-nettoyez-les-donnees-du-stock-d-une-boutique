@@ -8,4 +8,4 @@ Objectifs :
 - analyses exploratoires des données
 - fusion ou consolidations des données
 - analyses univariées du prix
-- analyses complémentaires / CA, quantités, stocks, taux de marge et correlations
+- faire des analyses complémentaires (CA, quantités, stocks, taux de marge et correlations)
